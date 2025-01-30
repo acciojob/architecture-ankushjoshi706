@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+body {
+            width: 1100px;
+            margin: auto;
+            font-family: Arial, sans-serif;
+        }
+.tr, td{
+	border: 1px solid black;
+}
+
+.text{
+	width:600;
+}
+.p{
+	width:600;
+}
